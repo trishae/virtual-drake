@@ -1,2 +1,2 @@
-# virtual-friend
-friend in augmented reailty
+# virtual-drake
+Drake in augmented reailty
